@@ -1,7 +1,11 @@
 
 @font-face {
   font-family: 'Teko';
-  src: url('Teko-Black.eot?#iefix') format('embedded-opentype'),  url('Teko-Black.woff') format('woff'), url('Teko-Black.ttf')  format('truetype'), url('Teko-Black.svg#Teko') format('svg');
-  font-weight: 900;
+  src: url('fonts/Teko-Black.eot');
+  src: url('fonts/Teko-Black.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Teko-Black.woff') format('woff'),
+       url('fonts/Teko-Black.ttf')  format('truetype'),
+       url('fonts/Teko-Black.svg#Teko') format('svg');
+  font-weight: 700;
   font-style: normal;
 }
