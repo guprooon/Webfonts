@@ -3,13 +3,13 @@
 
 
 @font-face {
-    font-family: 'envy_code_rregular';
+    font-family: 'envy code';
     src: url('envy_code_r-webfont.eot');
     src: url('envy_code_r-webfont.eot?#iefix') format('embedded-opentype'),
          url('envy_code_r-webfont.woff2') format('woff2'),
          url('envy_code_r-webfont.woff') format('woff'),
          url('envy_code_r-webfont.ttf') format('truetype'),
-         url('envy_code_r-webfont.svg#envy_code_rregular') format('svg');
+         url('envy_code_r-webfont.svg#envy code') format('svg');
     font-weight: normal;
     font-style: normal;
 
