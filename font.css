@@ -1,0 +1,8 @@
+@font-face {
+	resource-priority: lazy-load;
+	font-family: "Roboto Condensed";
+	src: url("https://cdn.rawgit.com/guprooon/Webfonts/master/RobotoCondensed/Regular/fonts/RobotoCondensedRegular.woff2") format("woff2"),
+		 url("https://cdn.rawgit.com/guprooon/Webfonts/master/RobotoCondensed/Regular/fonts/RobotoCondensedRegular.woff") format("woff"),
+		 url("https://cdn.rawgit.com/guprooon/Webfonts/master/RobotoCondensed/Regular/fonts/RobotoCondensedRegular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;}
